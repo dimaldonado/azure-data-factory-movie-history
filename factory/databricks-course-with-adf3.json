@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-with-adf3",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c2d201e-6706-4b47-81d7-838533632d80",
+		"tenantId": "56582b9e-8824-49d0-a665-cd328c0e004a"
+	}
+}
